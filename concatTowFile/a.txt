@@ -1,0 +1,12 @@
+ping -P D:\tupian -p "www.baidu.com1" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com2" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com3" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com4" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com5" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com6" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com7" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com8" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com9" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com10" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com11" -O "D:\tupian\
+ping -P D:\tupian -p "www.baidu.com12" -O "D:\tupian\
